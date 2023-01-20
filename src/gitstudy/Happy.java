@@ -6,6 +6,7 @@ public class Happy {
 		// TODO Auto-generated method stub
 		System.out.println("dev branch");
 		System.out.println("for test");
+		System.out.println("test 2");
 	}
 
 }
